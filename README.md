@@ -1,4 +1,4 @@
-# Khilesh-project
+# Diwali Sales Analysis
 
 Enhancing customer experience and boosting sales through insightful data analysis.
 
